@@ -81,7 +81,7 @@ Key Observations
 
 3)Fracture detection behaves as a small-object, low-contrast detection problem.
 
-🔍 Error Analysis (Qualitative)
+🔍 Error Analysis (Qualitative) 
 
 Visual inspection of predictions revealed the following failure modes:
 
