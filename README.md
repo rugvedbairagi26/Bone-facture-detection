@@ -143,8 +143,8 @@ This project should be considered a proof-of-concept and not a clinical diagnost
 
 Rugved Prashant Bairagi
 B.E. Computer Engineering (2nd Year)
-kaggle notebook link for full output --  https://www.kaggle.com/code/rugvedbairagi/bone-facture
 Interested in Computer Vision, Medical Imaging, Robotics & AI
+kaggle notebook link for full output --  https://www.kaggle.com/code/rugvedbairagi/bone-facture
 
 📜 Disclaimer
 
